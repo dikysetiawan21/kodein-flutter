@@ -33,7 +33,7 @@ KodeIn is a comprehensive mobile application designed to help users learn progra
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/dikysetiawan21/kodein.git
+   git clone https://github.com/dikysetiawan21/kodein-flutter.git
    cd kodein
    ```
 
